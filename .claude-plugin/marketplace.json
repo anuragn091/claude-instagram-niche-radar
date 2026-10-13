@@ -1,21 +1,38 @@
 {
-  "name": "niche-radar",
-  "owner": { "name": "Anurag Nigam", "url": "https://anuragnigam.in" },
+  "name": "instagram-niche-research",
+  "owner": {
+    "name": "Anurag Nigam",
+    "url": "https://anuragnigam.in"
+  },
   "metadata": {
-    "description": "Niche Radar: a Claude plugin for Instagram niche research, top creators, viral reel templates, trends and post ideas. Works in Claude Cowork and Claude Code."
+    "description": "Instagram Niche Research: a Claude plugin for Instagram niche research, top creators, viral reel templates, trends and post ideas. Works in Claude Cowork and Claude Code."
   },
   "plugins": [
     {
-      "name": "niche-radar",
+      "name": "instagram-niche-research",
       "source": "./plugins/niche-radar",
       "description": "Turns a vague Instagram content idea into a researched, QA-checked report: viewable market, trends, top creators and reels, top 20 templates to copy, what works, and 50 post ideas.",
-      "version": "0.3.2",
-      "author": { "name": "Anurag Nigam", "url": "https://anuragnigam.in" },
-      "homepage": "https://github.com/anuragn091/claude-instagram-niche-radar",
-      "repository": "https://github.com/anuragn091/claude-instagram-niche-radar",
+      "version": "0.4.0",
+      "author": {
+        "name": "Anurag Nigam",
+        "url": "https://anuragnigam.in"
+      },
+      "homepage": "https://github.com/anuragn091/claude-instagram-niche-research",
+      "repository": "https://github.com/anuragn091/claude-instagram-niche-research",
       "license": "MIT",
       "category": "marketing",
-      "keywords": ["instagram", "reels", "niche-research", "content-strategy", "creators", "trends", "social-media", "content-ideas"]
+      "keywords": [
+        "instagram",
+        "instagram-reels",
+        "niche-research",
+        "content-ideas",
+        "content-strategy",
+        "creators",
+        "trends",
+        "social-media",
+        "reels",
+        "post-ideas"
+      ]
     }
   ]
 }
