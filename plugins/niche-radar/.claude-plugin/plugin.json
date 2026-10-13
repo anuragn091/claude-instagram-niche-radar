@@ -1,0 +1,24 @@
+{
+  "name": "niche-radar",
+  "version": "0.3.1",
+  "description": "Turns a vague Instagram content idea into a researched, QA-checked report: viewable market, trends, top creators and reels, top 20 templates to copy, what works, and 50 post ideas.",
+  "author": {
+    "name": "Anurag Nigam",
+    "url": "https://anuragnigam.in"
+  },
+  "homepage": "https://github.com/anuragn091/claude-instagram-niche-radar",
+  "repository": "https://github.com/anuragn091/claude-instagram-niche-radar",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "content",
+    "reels",
+    "niche",
+    "niche-research",
+    "creators",
+    "trends",
+    "content-strategy",
+    "social-media",
+    "content-ideas"
+  ]
+}
