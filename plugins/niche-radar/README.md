@@ -30,9 +30,11 @@ Start a task and say something like "Analyze my Instagram niche: home workouts f
 ## What the plugin accesses and runs
 
 - **Instagram, through your own Chrome session.** Claude opens public Instagram pages (search results, profiles, reels, audio pages) in your logged-in browser and reads the numbers shown there. If you are logged in as the account being analysed and it is a professional account, it also reads that account's own Insights pages. It never logs in for you, and it never likes, follows, comments, saves, sends DMs or clicks Boost.
-- **Two small in-page helper scripts** (`skills/instagram-niche-analyzer/references/boot.js` and `audio.js`). Claude runs them in the Instagram tab. `boot.js` keeps a copy of the JSON responses Instagram's own page already loads, so posts can be counted without extra requests. `audio.js` reads the reuse count and remake grid from an audio page. Neither script sends data anywhere; they keep results in that tab's `localStorage`, which the skill clears at the end of a run.
+- **Two small in-page helper scripts** (`skills/instagram-niche-analyzer/references/boot.js` and `audio.js`). Claude runs them in the Instagram tab. `boot.js` keeps a copy of the JSON responses Instagram's own page already loads, so posts can be counted without extra requests. `audio.js` reads the reuse count and remake grid from an audio page. Neither script sends data anywhere; they keep results in that tab's `localStorage`. The skill clears the main keys at the end of a run; the audio results key can stay until you clear Instagram's site data.
 - **Your workspace and your Claude account only.** Run data is saved as files in your Claude workspace, and the finished report is published as a private artifact in your own Claude account. Nothing is sent to any other server or third party.
 - **No MCP servers, hooks, package installs or credentials.**
+
+Full details are in the [privacy policy](PRIVACY.md).
 
 ## License
 
