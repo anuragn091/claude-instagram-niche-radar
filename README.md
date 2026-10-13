@@ -1,6 +1,6 @@
-# Niche Radar: Instagram niche research plugin for Claude
+# Instagram Niche Research: a Claude plugin for Instagram content ideas
 
-**Find out what to post on Instagram, backed by real data.** Niche Radar is a free, open source plugin for **Claude Cowork** and **Claude Code** that researches any Instagram niche and turns it into an interactive report: audience size, rising trends, the top creators and reels, reel templates you can copy, and 50 post ideas.
+**Find out what to post on Instagram, backed by real data.** Instagram Niche Research is a free, open source plugin for **Claude Cowork** and **Claude Code** that researches any Instagram niche and turns it into an interactive report: audience size, rising trends, the top creators and reels, reel templates you can copy, and 50 post ideas.
 
 Give it a vague idea like *"Durga Puja looks"*, *"learning system design with AI"* or *"my fitness app"*, and it does the Instagram research for you.
 
@@ -21,11 +21,11 @@ Give it a vague idea like *"Durga Puja looks"*, *"learning system design with AI
 
 ## Example reports
 
-Real reports made with Niche Radar.
+Real reports made with Instagram Niche Research.
 
 **Women's Durga Puja look content** ([open the full interactive report](https://claude.ai/artifact/MyJETvyc457cedbNuMx1Pg))
 
-![Niche Radar report overview for Durga Puja look content: what to post, countdown to the festival and key findings](https://github.com/user-attachments/assets/b7c2434c-8d1f-4102-aaa8-a83c28d59ff8)
+![Instagram Niche Research report overview for Durga Puja look content: what to post, countdown to the festival and key findings](https://github.com/user-attachments/assets/b7c2434c-8d1f-4102-aaa8-a83c28d59ff8)
 
 ![Topic trends bubble chart for Durga Puja content: outfit finds rising, day-by-day series fading](https://github.com/user-attachments/assets/7f8fbcca-9bab-40ec-b05c-6870970c5810)
 
@@ -49,14 +49,14 @@ Instagram creators, small brands, founders, social media managers and marketers 
 
 1. Open **Customize** in the left sidebar, then **Plugins**.
 2. Click **Add**, then **Add marketplace**, then **Add from a repository**.
-3. Paste `anuragn091/claude-instagram-niche-radar`
-4. Find **niche-radar** and click **Install**. Turn on **Sync automatically** to get updates.
+3. Paste `anuragn091/claude-instagram-niche-research`
+4. Find **Instagram Niche Research** and click **Install**. Turn on **Sync automatically** to get updates.
 
 ### Claude Code
 
 ```
-/plugin marketplace add anuragn091/claude-instagram-niche-radar
-/plugin install niche-radar@niche-radar
+/plugin marketplace add anuragn091/claude-instagram-niche-research
+/plugin install instagram-niche-research@instagram-niche-research
 ```
 
 ## Requirements
