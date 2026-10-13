@@ -19,6 +19,26 @@ Give it a vague idea like *"Durga Puja looks"*, *"learning system design with AI
 - **50 Instagram post ideas,** each tied to the reels it's based on
 - **A built-in QA check** that recomputes every number and checks every link before the report is published
 
+## Example reports
+
+Real reports made with Niche Radar.
+
+**Women's Durga Puja look content** ([open the full interactive report](https://claude.ai/artifact/MyJETvyc457cedbNuMx1Pg))
+
+![Niche Radar report overview for Durga Puja look content: what to post, countdown to the festival and key findings](https://github.com/user-attachments/assets/b7c2434c-8d1f-4102-aaa8-a83c28d59ff8)
+
+![Topic trends bubble chart for Durga Puja content: outfit finds rising, day-by-day series fading](https://github.com/user-attachments/assets/7f8fbcca-9bab-40ec-b05c-6870970c5810)
+
+![Top reel templates to copy for Durga Puja content, with shot-by-shot recipes](https://github.com/user-attachments/assets/383a252b-4466-4d40-9a61-82e64dad6e1c)
+
+**Job-search content in India** (selected sections)
+
+![Topic trends for job-search content: salary and switching rising, resume and ATS fading](https://github.com/user-attachments/assets/384ac4bb-9c45-4f9e-92af-d5e19fe0d7c2)
+
+![What's working this week in job-search content on Instagram](https://github.com/user-attachments/assets/b5555edd-1ab1-4c6c-ab73-c70c94566f39)
+
+![Top creators in the job-search niche ranked by views in the last 30 days](https://github.com/user-attachments/assets/85c0b37f-52d5-4342-b4e4-ab8cf9cc7103)
+
 ## Who it's for
 
 Instagram creators, small brands, founders, social media managers and marketers who want a **content strategy** based on what's actually getting views, not guesses.
@@ -44,6 +64,8 @@ Instagram creators, small brands, founders, social media managers and marketers 
 - A paid Claude plan (Pro, Max, Team or Enterprise)
 - Google Chrome with the Claude extension, logged in to Instagram
 - The research is **read-only**: it never likes, follows, comments or sends DMs
+
+See [what the plugin accesses and runs](plugins/niche-radar/README.md#what-the-plugin-accesses-and-runs) for full details.
 
 ## How to use
 
