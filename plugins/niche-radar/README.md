@@ -1,6 +1,6 @@
-# Niche Radar: Instagram niche research for Claude
+# Instagram Niche Research for Claude
 
-Tell Claude what you want to post on Instagram, even vaguely ("Durga Puja looks", "learning system design with AI", "my job-search app"), and Niche Radar researches that niche on Instagram and builds an interactive report page. It shows:
+Tell Claude what you want to post on Instagram, even vaguely ("Durga Puja looks", "learning system design with AI", "my job-search app"), and Instagram Niche Research researches that niche on Instagram and builds an interactive report page. It shows:
 
 - how big the audience is in that niche, locally and internationally
 - which topics are rising or fading this week compared with the month
