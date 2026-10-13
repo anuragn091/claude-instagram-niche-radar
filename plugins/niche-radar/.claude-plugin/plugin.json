@@ -1,7 +1,7 @@
 {
   "name": "instagram-niche-research",
   "displayName": "Instagram Niche Research",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Turns a vague Instagram content idea into a researched, QA-checked report: viewable market, trends, top creators and reels, top 20 templates to copy, what works, and 50 post ideas.",
   "author": {
     "name": "Anurag Nigam",
@@ -11,6 +11,7 @@
   "repository": "https://github.com/anuragn091/claude-instagram-niche-research",
   "documentationUrl": "https://github.com/anuragn091/claude-instagram-niche-research#readme",
   "supportUrl": "https://github.com/anuragn091/claude-instagram-niche-research/issues",
+  "privacyPolicyUrl": "https://github.com/anuragn091/claude-instagram-niche-research/blob/main/plugins/niche-radar/PRIVACY.md",
   "license": "MIT",
   "keywords": [
     "instagram",
