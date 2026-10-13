@@ -1,26 +1,27 @@
 {
-  "name": "niche-radar",
-  "version": "0.3.2",
+  "name": "instagram-niche-research",
+  "displayName": "Instagram Niche Research",
+  "version": "0.4.0",
   "description": "Turns a vague Instagram content idea into a researched, QA-checked report: viewable market, trends, top creators and reels, top 20 templates to copy, what works, and 50 post ideas.",
   "author": {
     "name": "Anurag Nigam",
     "url": "https://anuragnigam.in"
   },
-  "homepage": "https://github.com/anuragn091/claude-instagram-niche-radar",
-  "repository": "https://github.com/anuragn091/claude-instagram-niche-radar",
-  "documentationUrl": "https://github.com/anuragn091/claude-instagram-niche-radar#readme",
-  "supportUrl": "https://github.com/anuragn091/claude-instagram-niche-radar/issues",
+  "homepage": "https://github.com/anuragn091/claude-instagram-niche-research",
+  "repository": "https://github.com/anuragn091/claude-instagram-niche-research",
+  "documentationUrl": "https://github.com/anuragn091/claude-instagram-niche-research#readme",
+  "supportUrl": "https://github.com/anuragn091/claude-instagram-niche-research/issues",
   "license": "MIT",
   "keywords": [
     "instagram",
-    "content",
-    "reels",
-    "niche",
+    "instagram-reels",
     "niche-research",
+    "content-ideas",
+    "content-strategy",
     "creators",
     "trends",
-    "content-strategy",
     "social-media",
-    "content-ideas"
+    "reels",
+    "post-ideas"
   ]
 }
