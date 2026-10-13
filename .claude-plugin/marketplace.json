@@ -12,7 +12,7 @@
       "name": "instagram-niche-research",
       "source": "./plugins/niche-radar",
       "description": "Turns a vague Instagram content idea into a researched, QA-checked report: viewable market, trends, top creators and reels, top 20 templates to copy, what works, and 50 post ideas.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "author": {
         "name": "Anurag Nigam",
         "url": "https://anuragnigam.in"
